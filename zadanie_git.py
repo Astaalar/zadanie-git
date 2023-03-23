@@ -13,3 +13,4 @@ for zakupy in lista_zakupów:
     break
 print("sprawdzamy czy to działa")
 print("teraz już sam nie wiem")
+print("chyba koniec")
